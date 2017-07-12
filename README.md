@@ -1,3 +1,5 @@
+This is a app I use to learn ReactJS.
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
